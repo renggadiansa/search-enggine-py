@@ -1,0 +1,99 @@
+Model permintaan dan penawaran menjelaskan bagaimana harga beragam sebagai hasil dari keseimbangan antara ketersediaan produk pada tiap harga (penawaran) dengan kebijakan distribusi dan keinginan dari mereka dengan kekuatan pembelian pada tiap harga (permintaan). Grafik ini memperlihatkan sebuah pergeseran ke kanan dalam permintaan dari D1 ke D2 bersama dengan peningkatan harga dan jumlah yang diperlukan untuk mencapai sebuah titik keseimbangan (equibilirium) dalam kurva penawaran (S).
+
+Ilmu ekonomi mikro (sering juga ditulis mikroekonomi) adalah cabang dari ilmu ekonomi yang mempelajari perilaku konsumen dan perusahaan serta penentuan harga-harga pasar dan kuantitas faktor input, barang, dan jasa yang diperjualbelikan. Ekonomi mikro meneliti bagaimana berbagai keputusan dan perilaku tersebut memengaruhi penawaran dan permintaan atas barang dan jasa, yang akan menentukan harga; dan bagaimana harga, pada gilirannya, menentukan penawaran dan permintaan barang dan jasa selanjutnya.[1][2] Individu yang melakukan kombinasi konsumsi atau produksi secara optimal, bersama-sama individu lainnya di pasar, akan membentuk suatu keseimbangan dalam skala makro; dengan asumsi bahwa semua hal lain tetap sama (ceteris paribus).
+
+Kebalikan dari ekonomi mikro ialah ekonomi makro, yang membahas aktivitas ekonomi secara keseluruhan, terutama mengenai pertumbuhan ekonomi, inflasi, pengangguran, berbagai kebijakan perekonomian yang berhubungan[3], serta dampak atas beragam tindakan pemerintah (misalnya perubahan tingkat pajak) terhadap hal-hal tersebut.[4]
+
+Daftar isi
+
+   1 Tinjauan umum
+   2 Asumsi dan definisi
+   3 Model operasi
+   4 Kegagalan pasar
+   5 Biaya peluang
+   6 Penerapan ekonomi mikro
+       6.1 Konsep fundamental dalam ekonomi mikro
+       6.2 Teori konsumsi
+       6.3 Teori produksi dan harga
+       6.4 Kesejahteraan ekonomi
+       6.5 Organisasi industri
+       6.6 Kegagalan pasar
+       6.7 Ekonomi finansial
+       6.8 Perdagangan internasional
+       6.9 Metodologi
+   7 Catatan
+   8 Bacaan Lebih Lanjut
+
+Tinjauan umum Ekonomi GDP PPP Per Capita IMF 2008.svg
+
+ Ekonomi menurut kawasan [tampilkan]
+
+Kategori umum
+
+Ekonomi mikro · Ekonomi makro Sejarah pemikiran ekonomi Metodologi · Pendekatan heterodoks Bidang dan subbidang
+
+Behavioral · Budaya · Evolusi Pertumbuhan · Pengembangan · Sejarah Internasional · Sistem ekonomi Keuangan dan Ekonomi keuangan Masyarakat dan Ekonomi kesejahteraan Kesehatan · Buruh · Manajerial Bisnis Informasi · Informasi · Game theory Organisasi Industri · Hukum Pertanian · Sumber daya alam Lingkungan · Ekologis Kota · Pedesaan · Kawasan Peta ekonomi Teknik
+
+Matematika · Ekonometrika Eksperimental · Neraca nasional Daftar
+
+Jurnal · Publikasi Kategori · Topik · Ekonom Ideologi ekonomi [tampilkan] Perekonomian: Konsep dan Sejarah Portal.svg Portal Bisnis dan ekonomi Kotak ini:
+
+   lihat
+   bicara
+   sunting
+
+Salah satu tujuan ekonomi mikro adalah menganalisis pasar beserta mekanismenya yang membentuk harga relatif kepada produk dan jasa, dan alokasi dari sumber terbatas di antara banyak penggunaan alternatif. Ekonomi mikro menganalisis kegagalan pasar, yaitu ketika pasar gagal dalam memproduksi hasil yang efisien; serta menjelaskan berbagai kondisi teoritis yang dibutuhkan bagi suatu pasar persaingan sempurna. Bidang-bidang penelitian yang penting dalam ekonomi mikro, meliputi pembahasan mengenai keseimbangan umum (general equilibrium), keadaan pasar dalam informasi asimetris, pilihan dalam situasi ketidakpastian, serta berbagai aplikasi ekonomi dari teori permainan. Juga mendapat perhatian ialah pembahasan mengenai elastisitas produk dalam sistem pasar. Asumsi dan definisi
+
+Teori penawaran dan permintaan biasanya mengasumsikan bahwa pasar merupakan pasar persaingan sempurna. Implikasinya ialah terdapat banyak pembeli dan penjual di dalam pasar, dan tidak satupun di antara mereka memiliki kapasitas untuk memengaruhi harga barang dan jasa secara signifikan. Dalam berbagai transaksi di kehidupan nyata, asumsi ini ternyata gagal, karena beberapa individu (baik pembeli maupun penjual) memiliki kemampuan untuk memengaruhi harga. Seringkali, dibutuhkan analisis yang lebih mendalam untuk memahami persamaan penawaran-permintaan terhadap suatu barang. Bagaimanapun, teori ini bekerja dengan baik dalam situasi yang sederhana.
+
+Ekonomi arus utama (mainstream economics) tidak berasumsi apriori bahwa pasar lebih disukai daripada bentuk organisasi sosial lainnya. Bahkan, banyak analisis telah dilakukan untuk membahas beragam kasus yang disebut "kegagalan pasar", yang mengarah pada alokasi sumber daya yang suboptimal, bila ditinjau dari sudut pandang tertentu (contoh sederhananya ialah jalan tol, yang menguntungkan semua orang untuk digunakan tetapi tidak langsung menguntungkan mereka untuk membiayainya). Dalam kasus ini, ekonom akan berusaha untuk mencari kebijakan yang akan menghindari kesia-siaan langsung di bawah kendali pemerintah, secara tidak langsung oleh regulasi yang membuat pengguna pasar untuk bertindak sesuai norma konsisten dengan kesejahteraan optimal, atau dengan membuat "pasar yang hilang" untuk memungkinkan perdagangan efisien dimana tidak ada yang pernah terjadi sebelumnya. Hal ini dipelajari di bidang tindakan kolektif. Harus dicatat juga bahwa "kesejahteraan optimal" biasanya memakai norma Pareto, dimana dalam aplikasi matematisnya efisiensi Kaldor-Hicks, tidak konsisten dengan norma utilitarian dalam sisi normatif dari ekonomi yang mempelajari tindakan kolektif, disebut pilihan masyarakat/publik. Kegagalan pasar dalam ekonomi positif (ekonomi mikro) dibatasi dalam implikasi tanpa mencampurkan kepercayaan para ekonom dan teorinya.
+
+Permintaan untuk berbagai komoditas oleh perorangan biasanya disebut sebagai hasil dari proses maksimalisasi kepuasan. Penafsiran dari hubungan antara harga dan kuantitas yang diminta dari barang yang diberi, memberi semua barang dan jasa yang lain, pilihan pengaturan seperti inilah yang akan memberikan kebahagiaan tertinggi bagi para konsumen. Model operasi
+
+Diasumsikan bahwa semua perusahaan mengikuti pembuatan keputusan rasional, dan akan memproduksi pada keluaran maksimalisasi keuntungan. Dalam asumsi ini, ada empat kategori dimana keuntungan perusahaan akan dipertimbangkan:
+
+   Sebuah perusahaan dikatakan membuat sebuah keuntungan ekonomi ketika average total cost lebih rendah dari setiap produk tambahan pada keluaran maksimalisasi keuntungan. Keuntungan ekonomi adalah setara dengan kuantitas keluaran dikali dengan perbedaan antara average total cost dan harga.
+   Sebuah perusahaan dikatakan membuat sebuah keuntungan normal ketika keuntungan ekonominya sama dengan nol. Keadaan ini terjadi ketika average total cost setara dengan harga pada keluaran maksimalisasi keuntungan.
+   Jika harga adalah di antara average total cost dan average variable cost pada keluaran maksimalisasi keuntungan, maka perusahaan tersebut dalam kondisi kerugian minimal. Perusahaan ini harusnya masih meneruskan produksi, karena kerugiannya akan makin membesar jika berhenti produksi. Dengan produksi terus menerus, perusahaan bisa menaikkan biaya variabel dan akhirnya biaya tetap, tetapi dengan menghentikan semuanya akan mengakibatkan kehilangan semua biaya tetapnya.
+   Jika harga dibawah average variable cost pada maksimalisasi keuntungan, perusahaan harus melakukan penghentian. Kerugian diminimalisir dengan tidak memproduksi sama sekali, karena produksi tidak akan menghasilkan keuntungan yang cukup signifikan untuk membiayai semua biaya tetap dan bagian dari biaya variabel. Dengan tidak berproduksi, kerugian perusahaan hanya pada biaya tetap. Dengan kehilangan biaya tetapnya, perusahaan menemui tantangan. Akan keluar dari pasar seutuhnya atau tetap bersaing dengan risiko kerugian menyeluruh.
+
+Kegagalan pasar !Artikel utama untuk bagian ini adalah: Kegagalan Pasar
+
+Dalam ekonomi mikro, istilah "kegagalan pasar" tidak berarti bahwa sebuah pasar tidak lagi berfungsi. Malahan, sebuah kegagalan pasar adalah situasi dimana sebuah pasar efisien dalam mengatur produksi atau alokasi barang dan jasa ke konsumen. Ekonom normalnya memakai istilah ini pada situasi dimana inefisiensi sudah dramatis, atau ketika disugestikan bahwa institusi non pasar akan memberi hasil yang diinginkan. Di sisi lain, pada konteks politik, pemegang modal atau saham menggunakan istilah kegagalan pasar untuk situasi saat pasar dipaksa untuk tidak melayani "kepentingan publik", sebuah pernyataan subyektif yang biasanya dibuat dari landasan moral atau sosial.
+
+Empat jenis utama penyebab kegagalan pasar adalah :
+
+   Monopoli atau dalam kasus lain dari penyalahgunaan dari kekuasaan pasar dimana "sebuah" pembeli atau penjual bisa memberi pengaruh signifikan pada harga atau keluaran. Penyalahgunaan kekuasaan pasar bisa dikurangi dengan menggunakan undang-undang anti-trust.[5]
+   Eksternalitas, dimana terjadi dalam kasus dimana "pasar tidak dibawa kedalam akun dari akibat aktivitas ekonomi di dalam orang luar/asing." Ada eksternalitas positif dan eksternalitas negatif.[5] Eksternalitas positif terjadi dalam kasus seperti dimana program kesehatan keluarga di televisi meningkatkan kesehatan publik. Eksternalitas negatif terjadi ketika proses dalam perusahaan menimbulkan polusi udara atau saluran air. Eksternalitas negatif bisa dikurangi dengan regulasi dari pemerintah, pajak, atau subsidi, atau dengan menggunakan hak properti untuk memaksa perusahaan atau perorangan untuk menerima akibat dari usaha ekonomi mereka pada taraf yang seharusnya.
+   Barang publik seperti pertahanan nasional[5] dan kegiatan dalam kesehatan publik seperti pembasmian sarang nyamuk. Contohnya, jika membasmi sarang nyamuk diserahkan pada pasar pribadi, maka jauh lebih sedikit sarang yang mungkin akan dibasmi. Untuk menyediakan penawaran yang baik dari barang publik, negara biasanya menggunakan pajak-pajak yang mengharuskan semua penduduk untuk membayar pada barang publik tersebut (berkaitan dengan pengetahuan kurang dari eksternalitas positif pada pihak ketiga/kesejahteraan sosial).
+   Kasus dimana terdapat informasi asimetris atau ketidak pastian (informasi yang inefisien)[5]. Informasi asimetris terjadi ketika salah satu pihak dari transaksi memiliki informasi yang lebih banyak dan baik dari pihak yang lain. Biasanya para penjual yang lebih tahu tentang produk tersebut daripada sang pembeli, tapi ini tidak selalu terjadi dalam kasus ini. Contohnya, para pelaku bisnis mobil bekas mungkin mengetahui bagaimana mobil tersebut telah digunakan sebagai mobil pengantar atau taksi, informasi yang tidak tersedia bagi pembeli. Contoh dimana pembeli memiliki informasi lebih baik dari penjual merupakan penjualan rumah atau vila, yang mensyaratkan kesaksian penghuni sebelumnya. Seorang broker real estate membeli rumah ini mungkin memiliki informasi lebih tentang rumah tersebut dibandingkan anggota keluarga yang ditinggalkan. Situasi ini dijelaskan pertamakali oleh Kenneth J. Arrow di artikel seminar tentang kesehatan tahun 1963 berjudul "ketidakpastian dan Kesejahteraan Ekonomi dari Kepedulian Kesehatan, " di dalam American Economic Review. George Akerlof kemudian menggunakan istilah informasi asimetris pada karyanya pada tahun 1970 The Market for Lemons. Akerlof menyadari bahwa, dalam pasar seperti itu, nilai rata-rata dari komoditas cenderung menurun, bahkan untuk kualitas yang sangat sempurna kebaikannya, karena para pembelinya tidak memiliki cara untuk mengetahui apakah produk yang mereka beli akan menjadi sebuah "lemon" (produk yang menyesatkan).
+
+Biaya peluang !Artikel utama untuk bagian ini adalah: Biaya peluang
+
+Walaupun biaya peluang (opportunity cost) kadang-kadang sulit untuk dihitung, efek dari biaya peluang sangatlah universal dan nyata pada tingkat perorangan. Bahkan, prinsip ini dapat diaplikasikan kepada semua keputusan, dan bukan hanya bidang ekonomi. Sejak kemunculannya dalam karya seorang ekonom Jerman bernama Freidrich von Wieser, sekarang biaya peluang dilihat sebagai dasar dari teori nilai marjinal.
+
+Biaya peluang merupakan salah satu cara untuk melakukan perhitungan dari sesuatu biaya. Bukan saja untuk mengenali dan menambahkan biaya ke proyek, tetapi juga mengenali cara alternatif lainnya untuk menghabiskan suatu jumlah uang yang sama. Keuntungan yang akan hilang sebagai akibat dari alternatif terbaik lainnya; adalah merupakan biaya peluang dari pilihan pertama. Sebuah contoh umum adalah seorang petani yang memilih mengolah pertaniannya dibandingkan dengan menyewakannya ke tetangga. Maka, biaya peluangnya adalah keuntungan yang hilang dari menyewakan lahan tersebut. Dalam kasus ini, sang petani mungkin mengharapkan untuk mendapatkan keuntungan yang lebih besar dari pekerjaan yang dilakukannya sendiri. Begitu juga dengan memasuki universitas dan mengabaikan upah yang akan diterima jika memilih menjadi pekerja, yang dibanding dengan biaya pendidikan, buku, dan barang lain yang diperlukan (sebagai biaya total dari kehadirannya di universitas). Contoh lainnya ialah biaya peluang dari melancong ke Bahamas, yang mungkin merupakan uang untuk pembayaran cicilan rumah.
+
+Perlu diingat bahwa biaya peluang bukanlah jumlah dari alternatif yang ada, melainkan lebih kepada keuntungan dari suatu pilihan alternatif yang terbaik. Biaya peluang yang mungkin dari keputusan sebuah kota membangun rumah sakit di lahan kosong, merupakan kerugian dari lahan untuk gelanggang olahraga, atau ketidakmampuan untuk menggunakan lahan menjadi sebuah tempat parkir, atau uang yang bisa didapat dari menjual lahan tersebut, atau kerugian dari penggunaan-pengguaan lainnya yang beragam - tapi bukan merupakan agregat dari semuanya (ditotalkan). Biaya peluang yang sebenarnya, merupakan keuntungan yang akan hilang dalam jumlah terbesar di antara alternatif-alternatif yang telah disebutkan tadi.
+
+Satu pertanyaan yang muncul dari ini ialah bagaimana menghitung keuntungan dari alternatif yang tidak sama. Kita harus menentukan sebuah nilai uang yang dihubungkan dengan tiap alternatif untuk memfasilitasi pembandingan dan penghitungan biaya peluang, yang hasilnya lebih-kurang akan menyulitkan untuk dihitung, tergantung dari benda yang akan kita bandingkan. Contohnya, untuk keputusan-keputusan yang melibatkan dampak lingkungan, nilai uangnya sangat sulit untuk dihitung karena ketidakpastian ilmiah. Menilai kehidupan seorang manusia atau dampak ekonomi dari tumpahnya minyak di Alaska, akan melibatkan banyak pilihan subyektif dengan implikasi etisnya. Penerapan ekonomi mikro
+
+Ekonomi mikro yang diterapkan termasuk area besar belajar, banyak di antaranya menggambarkan metode dari yang lainnya. Regulasi dan organisasi industri mempelajari topik seperti masuk dan keluar dari firma, inovasi, aturan merek dagang. Hukum dan Ekonomi menerapkan prinsip ekonomi mikro ke pemilihan dan penguatan dari berkompetisi dengan rezim legal dan efisiensi relatifnya. Ekonomi Perburuhan mempelajari upah, kepegawaian, dan dinamika pasar buruh. Finansial publik (juga dikenal dengan ekonomi publik) mempelajari rancangan dari pajak pemerintah dan kebijakan pengeluaran dan efek ekonomi dari kebijakan-kebijakan tersebut (contohnya, program asuransi sosial). Ekonomi kesehatan mempelajari organisasi dari sistem kesehatan, termasuk peran dari pegawai kesehatan dan program asuransi kesehatan. Politik ekonomi mempelajari peran dari institusi politik dalam menentukan keluarnya sebuah kebijakan. Ekonomi kependudukan, yang mempelajari tantangan yang dihadapi oleh kota-kota, seperti gepeng, polusi air dan udara, kemacetan lalu-lintas, dan kemiskinan, digambarkan dalam geografi kependudukan dan sosiologi. Finansial Ekonomi mempelajari topik seperti struktur dari portofolio yang optimal, rasio dari pengembalian ke modal, analisis ekonometri dari keamanan pengembalian, dan kebiasaan finansial korporat. Bidang Sejarah ekonomi mempelajari evolusi dari ekonomi dan institusi ekonomi, menggunakan metode dan teknik dari bidang ekonomi, sejarah, geografi, sosiologi, psikologi dan ilmu politik. Konsep fundamental dalam ekonomi mikro
+
+elastisitas - surplus konsumsi - surplus produsen - permintaan agregat - kompetisi - efisiensi Teori konsumsi
+
+Prefrensi - kurva indiferen - utilitas - utilitas marjinal -pendataan Teori produksi dan harga
+
+Dasar tori produksi - efisiensi-X - faktor produksi - lahan kemungkinan produksi - maksimalisasi laba -fungsi produksi - ekonomi skala - ekonomi cakupan - diskriminasi harga - harga transfer - harga barang gabungan - titik harga Kesejahteraan ekonomi
+
+Ekonomi kesejahteraan - efisiensi Pareto - efisiensi Kaldor-Hicks - kotak Edgeworth - fungsi kesejahteraan sosial - matriks pertidaksamaan pendapatan - kurva Lorenz - koefisien Gini - tingkat kemiskinan - kerugian bobot mati Organisasi industri
+
+Bentuk pasar - pasar persaingan sempurna - monopoli - pasar monopolistik - oligopoli - rasio konsentrasi - indeks Herfindahl Kegagalan pasar
+
+Aksi kolektif - informasi asimetris - Pasar Lemon - eksternalitas - barang publik - Regulasi Antitrust - biaya sosial - barang bebas - pajak - tragedi rakyat jelata - tragedi rakyat bukan jelata - Penguin Coase Ekonomi finansial
+
+Teori pasar efisien - ekonomi finansial - finansial - risiko Perdagangan internasional
+
+Perdagangan internasional - syarat perdagangan - tarif - Daftar topik perdagangan internasional Metodologi
+
+Ekuilibirium umum - teori Game - ekonomi institusional - ekonomi neoklasik - ekonomi ustria Catatan 

@@ -1,0 +1,17 @@
+Kelayakhunian planet (bahasa Inggris: planetary habitability) adalah ukuran potensi dari planet atau satelit alami untuk mendukung kehidupan. Kehidupan mungkin berkembang dengan sendirinya pada suatu planet atau satelit alami, atau mungkin juga ditransfer dari planet lain, suatu proses teoretis yang dikenal sebagai panspermia. Karena eksistensi kehidupan luar bumi masih belum pasti adanya, sebagian besar kelayakhunian planet adalah perhitungan dari kondisi di Bumi dan karakteristik Matahari dan tata surya yang tampaknya menguntungkan makhluk hidup untuk berkembang–khususnya faktor-faktor yang menopang makhluk hidup yang kompleks, organisme multiselular, tidak hanya yang sederhana, organisme uniselular. Penelitian dan teori dalam hal ini adalah komponen dari ilmu planet dan disiplin yang muncul dari astrobiologi.
+
+Syarat mutlak untuk adanya kehidupan adalah sumber energi, dan gagasan kelayakhunian planet menunjukkan bahwa kriteria lain dari geofisika, geokimia, dan astrofisika harus dipenuhi sebelum suatu badan astronomi dapat mendukung kehidupan. Dalam rencana astrobiologi NASA, telah didefinisikan kriteria kelayakhunian utama sebagai "daerah luas untuk air, kondisi yang baik untuk terhubungnya molekul-molekul organik kompleks, dan sumber energi untuk menyokong metabolisme."[1]
+
+Dalam menentukan potensi kelayakhunian suatu planet atau satelit, studi terfokus kepada komposisi, sifat orbit, atmosfer, dan interaksi kimia yang potensial. Karakteristik bintangnya yang penting mencakup massa dan luminositas, variabilitas yang stabil, tingkat logam yang tinggi. Planet dan satelit terestrial atau bebatuan dengan potensi kimiawi mirip Bumi adalah fokus utama dalam penelitian astrobiologi, meskipun teori kelayakhunian yang lebih spekulatif kadang mempertimbangkan biokimia alternatif dan jenis lain dari badan astronomi.
+
+Terminologi klasifikasi
+Katalog Eksoplanet Layak Huni[2] menggunakan estimasi kisaran temperatur permukaan untuk mengklasifikasikan eksoplanet:
+
+hipopsikroplanet -- sangat dingin (< -50 °C)
+psikroplanet -- dingin (< -50 hingga 0 °C)
+mesoplanet -- suhu sedang (0-50 °C; jangan disamakan dengan definisi lain dari mesoplanet)
+termoplanet -- panas (50-100 °C)
+hipertermoplanet -- (> 100 °C)
+Mesoplanet akan ideal untuk kehidupan yang kompleks, sedangkan hipopsikroplanet dan hipertermoplanet mungkin hanya mendukung kehidupan yang ekstrem.
+
+HEC menggunakan istilah-istilah berikut untuk mengklasifikasikan eksoplanet berdasarkan massanya, dari yang terkecil sampai yang terbesar: asteroid, mercurian, subterran, terran, superterran, neptunian, dan jovian.

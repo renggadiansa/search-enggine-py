@@ -1,0 +1,60 @@
+Cuaca adalah keadaan udara di atmosfer pada waktu dan tempat tertentu yang sifatnya tidak menentu dan berubah-ubah. Penilaian terhadap kategori cuaca umumnya dinyatakan dengan memperhatikan kondisi hujan, suhu udara, jumlah tutupan awan, penguapan, kelembapan, dan kecepatan angin di suatu tempat dari hari ke hari. Analisis cuaca menggunakan kurun waktu antara satu hari sampai satu minggu.[1] Unsur-unsur pembentuk cuaca yaitu suhu udara, tekanan udara, kelembapan udara, laju uap air, awan, hujan dan angin.[2] Nilai-nilai unsur cuaca dinyatakan secara berbeda apabila waktu kesatuannya berbeda. Pernyataan cuaca pada suatu waktu yang singkat harus menggunakan nilai-nilai unsur cuaca yang ada pada saat itu. Sedangkan pernyataan cuaca dalam waktu kesatuan yang lebih panjang harus menggunakan nilai-nilai unsur cuaca dengan tingkatan paling rendah, paling tinggi, atau paling dapat terasa oleh pancaindra.[3] Proses-proses dalam atmosfer dapat membentuk fenomena cuaca berupa hidrometeor, litometeor, fotometeor, dan elektrometeor.[4]
+
+Cuaca terjadi karena suhu dan kelembapan yang berbeda antara satu tempat dengan tempat lainnya. Perbedaan ini bisa terjadi karena sudut pemanasan matahari yang berbeda dari satu tempat ke tempat lainnya karena perbedaan lintang bumi. Perbedaan yang tinggi antara suhu udara di daerah tropis dan daerah kutub bisa menimbulkan jet stream. Sumbu bumi yang miring dibanding orbit bumi terhadap matahari membuat perbedaan cuaca sepanjang tahun untuk daerah sub tropis hingga kutub. Di permukaan bumi suhu biasanya berkisar ± 40 °C. Selama ribuan tahun perubahan orbit bumi juga memengaruhi jumlah dan distribusi energi matahari yang diterima oleh bumi dan memengaruhi iklim jangka panjang. Cuaca di bumi juga dipengaruhi oleh hal-hal lain yang terjadi di angkasa, di antaranya adanya angin matahari atau disebut juga star's corona.
+
+Unsur pembentuk
+Radiasi matahari
+Setiap benda yang memiliki suhu di atas nol mutlak pasti menerima pancaran radiasi matahari dalam bentuk energi. Radiasi matahari merupakan satu-satunya bentuk energi yang dapat melakukan perambatan di dalam vakum luar angkasa. Radiasi matahari tersusun atas medan listrik dan medan magnet sehingga termasuk dalam jenis gelombang elektromagnetik.[5] Permukaan Bumi hanya menerima radiasi yang dipancarkan matahari dalam jumlah yang sangat kecil. Bumi memanfaatkan radiasi matahari sebagai energi utama dalam melakukan proses-proses fisika di atmosfer.[6]
+
+Suhu udara
+Suhu udara merupakan keadaan panas atau dingin dari suatu udara. Pengukur suhu udara atau derajat panas menggunakan alat ukur yang disebut termometer. Pengukur suhu udara dinyatakan dalam skala Celsius (C), Reamur (R), atau Fahrenheit (F). Daerah tropis memiliki suhu udara tertinggi di permukaan bumi, sedangkan daerah kutub memiliki suhu yang paling dingin.[7]
+
+Tekanan udara
+Tekanan udara merupakan gaya berat yang ditimbulkan udara pada luas tertentu. Pengukuran tekanan udara dilakukan dengan menggunakan barometer. Tekanan udara umumnya diukur dengan satuan milibar.[8]
+
+Kelembapan udara
+Kelembapan udara merupakan jumlah uap air yang ada di dalam udara. Atmosfer memiliki jumlah uap air dan udara dengan nilai yang sangat sedikit yaitu sekitar 2 % dari jumlah massa keseluruhan. Kelembaban udara merupakan pemusatan uap air di udara yang sangat memengaruhi cuaca. Tingkat pemusatan kelembaban udara dinyatakan menjadi kelembapan absolut, kelembapan spesifik atau kelembapan relatif.[9]
+
+Awan
+Awan merupakan kumpulan massa air yang berkumpul di atas permukaan Bumi. Pengamatan awan dilakukan dengan memperhatikan tutupan awan yang dapat dibagi menjadi delapan bagian. Tutupan ini disebut oktaf. Awan dapat diamati dalam bentuk butiran air, udara, maupun kristal es.[10]
+
+Hujan
+Hujan merupakan air yang jatuh dari awan ke permukaan bumi. Besarnya curah hujan diukur dengan ombrometer secara manual maupun otomatis. Curah hujan dinyatakan dalam satuan milimeter.[11]
+
+Angin
+Angin merupakan pergerakan udara yang terjadi akibat adanya perbedaan suhu dan tekanan antara suatu tempat dan pada tempat lain. Pergerakan angin terjadi dalam arah mendatar. Angin yang terukur oleh sensor angin pada ketinggian antara 6 dan 10 meter dari permukaan bumi disebut sebagai angin permukaan. Penamaan angin disesuaikan dengan arah datang dan kecepatannya, sedangkan arah angin dinyatakan dengan derajat. Arah angin dari utara dinyatakan dalam 360 derajat, dari timur 90 derajat, dari selatan 180 derajat, dan dari barat 270 derajat. Kecepatan angin dinyatakan dalam km/jam, m/detik, atau dalam knot. Angin yang memiliki kecepatan yang sangat rendah dinyatakan dalam arah 0 derajat.[12]
+
+Fenomena
+Hidrometeor
+Hidrometeor adalah fenomena selain awan yang timbul karena keberadaan unsur air. Bentuk hidrometeor yaitu embun, kabut, hujan, dan salju.[4] Embun merupakan penguapan air yang terjadi pada sisi permukaan air. Keberadaan embun dapat diamati pada dedaunan dan tangkai rumput saat waktu pagi di musim panas, musim semi, dan musim gugur.[13] Kabut merupakan tetesan air yang melayang di udara dalam ukuran yang sangat kecil. Kabut terbentuk pada ketinggian yang sangat dekat dengan permukaan bumi.[14] Hujan merupakan tetes-tetes air di dalam awan yang berukuran besar sehingga dapat melawan gaya apung udara dan jatuh ke permukaan Bumi. Pembentukan hujan juga dapat berasal dari salju yang mencair.[15] Salju merupakan uap air yang menguap di bawah suhu titik embun. Salju terlihat seperti kristal berbentuk heksagon.[16]
+
+Litometeor
+Litometeor merupakan fenomena yang timbul akibat adanya butir-butir kecil dari benda yang tidak mengandung air. Bentuk umum dari litometeor adalah debu dan asap.[4]
+
+Fotometeor
+Fotometeor merupakan fenomena optik yang berkaitan dengan pembiasan, pemantulan, penguraian, dan interferensi sinar matahari atau cahaya bulan. Pembentukan fotometeor terjadi selama cahaya melewati atmosfer. Fotometeor terjadi karena adanya perbedaan suhu dan kerapatan lapisan-lapisan udara, atau di dalam udara terdapat partikel atau butir-butir air, maupun butir atau kristal es. Pada saat cuaca cerah atau udara panas, fotometeor dapat timbul dalam wujud fatamorgana, mirats, atau benda-benda yang terlihat bergoyang. Selain itu, fotometeor dapat timbul pada di dalam awan, hidrometeor atau litometeor. Fotometeor di atmosfer dapat berbentuk halo pada matahari atau bulan, pelangi. busur kabut, cincin Bishop. Pembentukan fotometeor dipengaruhi oleh kondisi udara yang berlapis-lapis.[17]
+
+Elektrometeor
+Elektrometeor merupakan fenomena kelistrikan yang berkaitan dengan kadar muatan listrik di dalam udara. Umumnya, elektrometeor muncul dalam wujud kilat, badai petir, atau aurora. Kilat dan badai petir terbentuk oleh awan kumulonimbus. Badai petir termasuk fenomena hasil penggabungan antara fenomena hidrometeor dan elektrometeor.[18] Dampak yang ditimbulkan oleh badai petir berupa angin kencang dan kilat. Pembentukan kilat merupakan hasil loncatan muatan listrik yang sangat kuat secara berulang-ulang dengan disertai peningkatan jumlah muatan listrik. Setelah muatan listrik dalam kilat mencapai nilai maksimum, hujan deras akan terjadi beberapa menit setelahnya. Pembentukan hingga berakhirnya fenomena badai petir memerlukan waktu sekitar 2 jam.[19]
+
+Cuaca ekstrim
+Suatu cuaca yang terjadi secara ekstrim dapat menyebabkan bencana alam, mengubah tatanan kehidupan sosial, maupun menyebabkan kematian bagi makhluk hidup di sekitarnya, khususnya manusia. Cuaca ekstrim merupakan kondisi cuaca yang berbeda dari keadaan normal. Kondisi cuaca ekstrim hanya terjadi dalam hitungan detik, jam atau hari. Jangka waktu maksimal terjadinya cuaca ekstrim adalah 3 hari. Jenis cuaca ektrim yang terjadi pada suatu daerah dapat berbeda-beda. Hal yang mendasari perbedaan jens cuaca ekstrim ialah perbedaan garis lintang, ketinggian, topografi dan kondisi atmosfer. Cuaca ekstrim dapat berbentuk angin kencang, puting beliung, hujan lebat, gelombang laut yang tinggi, belalai air, hujan es, suhu yang sangat panas, suhu yang sangat dingin, ataupun jarak pandang mendatar yang sangat rendah.[20]
+
+Ambang batas keadaan cuaca ekstrim berbeda-beda pada tiap jenis kondisi cuaca. Ambang batas ekstrim pada angin ialah pada kecepatan 25 knot atau 45 km/jam. Hujan lebat memasuki kondisi ekstrim pada curah hujan berkisar antara 20–50 mm per jam dalam sehari. Suhu dingin dianggap ekstrim jika telah berada pada kisaran 3 °C. Cuaca juga dianggap ekstrim jika jarang pandang secara mendatar sudah kurang dari 1 km. Sedangkan gelombang laut dianggap ekstrim jika tingginya telah melewati ketinggian 2 meter.[21] Jarak pandang yang sangat pendek akibat hujan lebat dapat membahayakan transportasi darat, laut, dan udara. Selain itu, awan badai yang timbul selama hujan lebat dapat membahayakan pesawat terbang saat pendaratan karena adanya turbulensi di dekat permukaan Bumi.[22]
+
+Peran dan dampak
+Pertanian
+Cuaca dapat memberikan dampak yang berbeda pada setiap orang, setiap benda, atau setiap kegiatan yang berkaitan dengan pertanian. Curah hujan yang sesuai untuk suatu tanaman dapat berbeda dengan curah hujan yang diperlukan tanaman lain. Manusia juga memerlukan kondisi cuaca tertentu yang dapat menguntungkan kegiatan pertanian yang akan dilakukannya. Selain itu, manusia juga menghindari cuaca tertentu yang merugikan kegiatan pertanian. Unsur cuaca yang penting dalam pertanian yaitu penyinaran matahari, suhu udara, suhu tanah, angin, kelembapan udara, hujan, penguapan dan penguap-peluhan.[23]
+
+Populasi manusia
+
+New Orleans, Louisiana setelah dihantam oleh Hurikan Katrina.
+Cuaca memegang peranan penting dalam sejarah peradaban manusia, baik secara langsung maupun tidak langsung. Terlepas dari perubahan iklim yang telah memengaruhi populasi manusia dalam skala besar, cuaca ekstrim telah menyebabkan pergerakan populasi manusia dalam skala kecil. Salah satu contohnya adalah ketika taifun Kamikaze menggagalkan rencana penyerangan Jepang oleh pasukan Mongol pada tahun 1281.[24] Peristiwa serupa juga terjadi pada akhir masa pendudukan Prancis di Florida pada tahun 1565. Kala itu, sebuah hurikan menghancurkan armada Prancis sehingga Spanyol dapat mengambil alih Benteng Caroline.[25] Peristiwa yang baru-baru ini terjadi adalah ketika Hurikan Katrina menyebabkan jutaan penduduk di pantai Teluk Amerika Serikat bagian tengah menyebar menuju wilayah-wilayah lain di Amerika Serikat. Peristiwa ini tercatat sebagai diaspora terbesar di Amerika Serikat dalam 150 tahun terakhir.[26]
+
+Prakiraan
+Artikel utama: Prakiraan cuaca
+
+Prakiraan yang dirilis pada 9 Juni 2008, menampilkan tekanan atmosfer permukaan di Samudra Pasifik dan Atlantik utara selama lima hari ke depan.
+Prakiraan cuaca merupakan bentuk penerapan dari sains dan teknologi untuk memprediksi kondisi atmosfer pada waktu dan lokasi tertentu. Manusia mulai memprediksi cuaca secara informal mulai tahun 650 sebelum masehi ketika bangsa Babilonia menggunakan fenomena-fenomena alam untuk memprediksi perubahan cuaca jangka pendek di masa depan.[27] Pada zaman modern, cuaca diprediksi dengan cara mengumpulkan data kuantitatif dari kondisi terkini atmosfer kemudian memproyeksikan kondisinya di masa depan menggunakan pendekatan ilmiah.[28]
+
+Prakiraan cuaca memiliki fungsi yang beragam. Peringatan cuaca buruk yang akan terjadi di masa depan sangat penting bagi beberapa pihak karena dapat melindungi nyawa dan properti mereka. Sektor pertanian juga dapat menggunakan prakiraan cuaca berbasis temperatur dan presepitasi. Bagi beberapa orang, prakiraan cuaca berguna untuk menyesuaikan gaya busana yang akan mereka gunakan supaya tetap nyaman pada kondisi cuaca tertentu.
